@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "輝く君の詩",
+  "base_artist": "みゆみん",
+  "createdAt": "2026-01-06T08:21:12.699305Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "輝く君の詩",
+      "artist": "みゆみん",
+      "has_synced": false,
+      "path": "select/pl_01_輝く君の詩_みゆみん.txt"
+    }
+  ]
+}
